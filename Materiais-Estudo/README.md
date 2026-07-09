@@ -1,5 +1,5 @@
 # Materiais utilizados
-Aqui estão mencionados os livros, pdf, sites, artigos,  entre outros..., que foram utilizados durante o desenvolvimento do projeto
+Nesta seção estão reunidos os livros, sites, artigos, documentos, problemas, entre outros materiais, que foram utilizados durante o desenvolvimento do projeto. Embora nem todos eles estejam relacionado diretamente ao problema principal da pesquisa, eles forneceram embasamente teórico para que fosse possível realizar o projeto. 
 
 ## Recursão
 - https://www.ime.usp.br/~leo/mac2166/2017-1/line_introducao_recursividade.html
